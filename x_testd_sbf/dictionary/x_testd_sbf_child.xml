@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_testd_sbf_parent" label="Child" max_length="40" name="x_testd_sbf_child" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Col ch" max_length="40" name="col_ch" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Col ch choice" max_length="40" name="col_ch_choice" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Test1" value="test1"/>
+                <element inactive_on_update="false" label="Test2" value="test2"/>
+                <element inactive_on_update="false" label="Test3" value="test3"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="col_ch_choice"/>
+        </index>
+        <index name="index2">
+            <element name="col_ch"/>
+        </index>
+    </element>
+</database>

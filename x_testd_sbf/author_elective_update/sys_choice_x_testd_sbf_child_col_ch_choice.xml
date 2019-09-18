@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="col_ch_choice" table="x_testd_sbf_child" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>col_ch_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test1</label>
+            <language>en</language>
+            <name>x_testd_sbf_child</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 22:44:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c3ba7d484880010964f98b79dd545a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 22:44:31</sys_updated_on>
+            <value>test1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>col_ch_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test2</label>
+            <language>en</language>
+            <name>x_testd_sbf_child</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 22:44:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>103ba7d484880010964f98b79dd545ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 22:44:31</sys_updated_on>
+            <value>test2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>col_ch_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test3</label>
+            <language>en</language>
+            <name>x_testd_sbf_child</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 22:44:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>143ba7d484880010964f98b79dd545ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 22:44:31</sys_updated_on>
+            <value>test3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>col_ch_choice</element>
+            <name>x_testd_sbf_child</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 22:44:31</sys_created_on>
+            <sys_id>943ba7d484880010964f98b79dd545aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>col_ch_choice</sys_name>
+            <sys_package display_value="testd@sbf" source="x_testd_sbf">faf96b9484880010964f98b79dd545d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testd@sbf">faf96b9484880010964f98b79dd545d5</sys_scope>
+            <sys_update_name>sys_choice_x_testd_sbf_child_col_ch_choice</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 22:44:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

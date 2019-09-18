@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="parent" max_length="40" name="x_testd_sbf_parent" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Col choice" max_length="40" name="col_choice" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Par1" value="par1"/>
+                <element inactive_on_update="false" label="Par2" value="par2"/>
+                <element inactive_on_update="false" label="Par3" value="par3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Col par" max_length="40" name="col_par" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="col_par"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index3">
+            <element name="col_choice"/>
+        </index>
+    </element>
+</database>
