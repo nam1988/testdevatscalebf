@@ -10,13 +10,13 @@
             <name>x_testd_sbf_parent</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 22:41:52</sys_created_on>
+            <sys_created_on>2019-09-18 22:51:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a59a63d484880010964f98b79dd545da</sys_id>
+            <sys_id>51ccaf1884880010964f98b79dd54563</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 22:41:52</sys_updated_on>
+            <sys_updated_on>2019-09-18 22:51:24</sys_updated_on>
             <value>par1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,13 +29,13 @@
             <name>x_testd_sbf_parent</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 22:41:52</sys_created_on>
+            <sys_created_on>2019-09-18 22:51:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e19a63d484880010964f98b79dd545dd</sys_id>
+            <sys_id>91ccaf1884880010964f98b79dd54563</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 22:41:52</sys_updated_on>
+            <sys_updated_on>2019-09-18 22:51:24</sys_updated_on>
             <value>par2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,13 +48,13 @@
             <name>x_testd_sbf_parent</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 22:41:52</sys_created_on>
+            <sys_created_on>2019-09-18 22:51:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>659a63d484880010964f98b79dd545df</sys_id>
+            <sys_id>d1ccaf1884880010964f98b79dd54563</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 22:41:52</sys_updated_on>
+            <sys_updated_on>2019-09-18 22:51:24</sys_updated_on>
             <value>par3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -62,8 +62,8 @@
             <name>x_testd_sbf_parent</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 22:41:52</sys_created_on>
-            <sys_id>259a63d484880010964f98b79dd545db</sys_id>
+            <sys_created_on>2019-09-18 22:51:24</sys_created_on>
+            <sys_id>d5ccaf1884880010964f98b79dd54563</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>col_choice</sys_name>
             <sys_package display_value="testd@sbf" source="x_testd_sbf">faf96b9484880010964f98b79dd545d5</sys_package>
@@ -71,7 +71,7 @@
             <sys_scope display_value="testd@sbf">faf96b9484880010964f98b79dd545d5</sys_scope>
             <sys_update_name>sys_choice_x_testd_sbf_parent_col_choice</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 22:41:52</sys_updated_on>
+            <sys_updated_on>2019-09-18 22:51:24</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

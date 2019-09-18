@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
     <sys_index action="INSERT_OR_UPDATE">
         <col_name_string>col_par</col_name_string>
-        <index_col_name element="col_par" name="x_testd_sbf_parent">e19a63d484880010964f98b79dd545cb</index_col_name>
+        <index_col_name element="col_par" name="x_testd_sbf_parent">99ccaf1884880010964f98b79dd54554</index_col_name>
         <logical_table_name>x_testd_sbf_parent</logical_table_name>
         <sys_class_name>sys_index</sys_class_name>
         <sys_created_by>system</sys_created_by>

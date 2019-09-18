@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_testd_sbf_parent" label="Child" max_length="40" name="x_testd_sbf_child" type="collection">
+    <element label="Child" max_length="40" name="x_testd_sbf_child" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Col ch" max_length="40" name="col_ch" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Col child" max_length="40" name="col_chi" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Col ch choice" max_length="40" name="col_ch_choice" type="string">
             <choice>
